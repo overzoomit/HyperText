@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="688d68e9-adf8-4679-ace0-749730278dc0" name="Default Changelist" comment="" />
+    <list default="true" id="688d68e9-adf8-4679-ace0-749730278dc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/DELIBERE DI C.C. 2012.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/DELIBERE DI C.C. 2013.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/ELENCO Delibere di G.C. 2013 RISERBATO.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/ELENCO Delibere di G.C. 2014 RISERBATO.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/Elenco Delibere di Giunta Comunale 2012 - RISERBATO.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/INDICE delibere di C.C. 2014.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/delibere_consigliocomunale.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/delibere_consigliocomunale2015_primaparte.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/delibere_consigliocomunale2015_secondaparte.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/delibere_consigliocomunale2016.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/delibere_giuntacomunale2015_primaparte.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/delibere_giuntacomunale2016.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/delibere_giuntacomunale_2017.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/deliberegiuntacomunale2015_secondaparte.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/determine2015.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/determine2016.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/import/determine2017.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HyperText.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HyperText.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stasbranger/hypertext/HyperTextApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stasbranger/hypertext/HyperTextApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stasbranger/hypertext/service/HyperXLSService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stasbranger/hypertext/service/HyperXLSService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HyperTextTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HyperTextTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stasbranger/hypertext/service/HyperXLSService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stasbranger/hypertext/service/HyperXLSService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/file.xls.mod.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/file.xls.mod.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HyperTextTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HyperTextTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,42 +47,53 @@
     <session id="1854871743">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="11" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="11" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JAVA" value="694" />
           <entry key="PLAIN_TEXT" value="12" />
+          <entry key="XML" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="java" value="694" />
           <entry key="txt" value="12" />
+          <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stasbranger/hypertext/HyperTextApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+            <state relative-caret-position="272">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -56,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/HyperTextTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="187">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -65,8 +110,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stasbranger/hypertext/service/HyperXLSService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-221">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="363">
+              <caret line="91" column="27" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,8 +121,23 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getHyperlink</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/HyperTextTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stasbranger/hypertext/HyperTextApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stasbranger/hypertext/service/HyperXLSService.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -85,11 +145,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="27" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="2" />
+    <option name="y" value="130" />
+    <option name="width" value="1063" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -99,7 +166,6 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,6 +219,14 @@
               <item name="HyperText" type="b2602c69:ProjectViewProjectNode" />
               <item name="HyperText" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="import" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HyperText" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HyperText" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -171,10 +245,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535705861752" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542377658559" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../server-cgil.bk" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/import" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -215,7 +294,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535704141301</updated>
-      <workItem from="1535704144058" duration="1674000" />
+      <workItem from="1535704144058" duration="3525000" />
+      <workItem from="1535710656344" duration="20000" />
+      <workItem from="1542269228679" duration="1091000" />
+      <workItem from="1542289156652" duration="1975000" />
+      <workItem from="1542363172472" duration="8796000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1535705346492</created>
@@ -228,44 +311,72 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HyperTextTest_testXLS - 2018.08.31 at 10h 33m 55s.xml">
+    <history-entry file="HyperTextTest_testXLS - 2018.11.16 at 13h 14m 16s.xml">
+      <configuration name="HyperTextTest.testXLS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HyperTextTest_testXLS - 2018.11.16 at 13h 20m 04s.xml">
+      <configuration name="HyperTextTest.testXLS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HyperTextTest_testXLS - 2018.11.16 at 13h 20m 58s.xml">
+      <configuration name="HyperTextTest.testXLS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HyperTextTest_testXLS - 2018.11.16 at 13h 23m 00s.xml">
+      <configuration name="HyperTextTest.testXLS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HyperTextTest_testXLS - 2018.11.16 at 13h 24m 18s.xml">
+      <configuration name="HyperTextTest.testXLS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HyperTextTest_testXLS - 2018.11.16 at 13h 25m 32s.xml">
+      <configuration name="HyperTextTest.testXLS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HyperTextTest_testXLS - 2018.11.16 at 13h 27m 15s.xml">
+      <configuration name="HyperTextTest.testXLS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HyperTextTest_testXLS - 2018.11.16 at 13h 27m 43s.xml">
+      <configuration name="HyperTextTest.testXLS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HyperTextTest_testXLS - 2018.11.16 at 13h 28m 23s.xml">
+      <configuration name="HyperTextTest.testXLS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HyperTextTest_testXLS - 2018.11.16 at 13h 31m 08s.xml">
       <configuration name="HyperTextTest.testXLS" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1674000" />
+    <option name="totallyTimeSpent" value="15407000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="-1" width="1924" height="1057" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1054" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31236672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957264" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32905984" />
+      <window_info anchor="bottom" id="Docker" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,25 +389,124 @@
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/stasbranger/hypertext/service/HyperXLSService.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>row.getCell(0).getNumericCellValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getCell(0).getAddress()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getCell(0).getCellFormula()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getCell(0).getColumnIndex()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getCell(0).getDateCellValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getCell(0).getCellType()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getCell(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>row.getCell(1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stasbranger/hypertext/HyperTextApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+        <state relative-caret-position="272">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HyperTextTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="187">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="370" selection-start-line="370" selection-end-line="370" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+            <element signature="e#10310#10449#0" expanded="true" />
+            <element signature="e#10448#10449#0" expanded="true" />
+            <element signature="e#11040#11204#0" expanded="true" />
+            <element signature="e#11203#11204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stasbranger/hypertext/service/HyperXLSService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="363">
+          <caret line="91" column="27" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

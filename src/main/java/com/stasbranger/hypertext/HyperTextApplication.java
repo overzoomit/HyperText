@@ -17,7 +17,7 @@ public class HyperTextApplication {
 			System.out.println("Processing file " + file + "...");
 			try {
 				HyperXLSService hs = new HyperXLSService();
-				hs.processXLS(file);
+				hs.processXLSDelibereCC(file);
 			}catch(ODFNotOfficeXmlFileException e){
 				try {
 					HyperODSService hs = new HyperODSService();
